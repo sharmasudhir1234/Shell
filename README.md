@@ -1,2 +1,2 @@
 # Shell
-Schell Scripts for reference to verify git fetch command
+Schell Scripts for reference to verify git fetch command.
